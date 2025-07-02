@@ -8,18 +8,9 @@
       "url": "https://github.com/FunkinCrew/FlxPartialSound.git"
     },
     {
-      "name": "flixel",
-      "type": "git",
-      "dir": null,
-      "ref": "fffb1a74cf08f63dacc2ab09976340563f5b6e6d",
-      "url": "https://github.com/FunkinCrew/flixel"
-    },
-    {
       "name": "flixel-addons",
-      "type": "git",
-      "dir": null,
-      "ref": "b9118f47f43a66bc0e5fbfcfd9903f0425e918ee",
-      "url": "https://github.com/FunkinCrew/flixel-addons"
+      "type": "haxelib",
+      "version": "3.3.0"
     },
     {
       "name": "flixel-text-input",
@@ -52,7 +43,7 @@
       "type": "git",
       "dir": "src",
       "ref": "57f5d47f2533fd0c3dcd025a86cb86c0dfa0b6d2",
-      "url": "https://gitlab.com/haxe-grig/grig.audio.git"
+      "url": "https://github.com/FunkinCrew/grig.audio"
     },
     {
       "name": "hamcrest",
